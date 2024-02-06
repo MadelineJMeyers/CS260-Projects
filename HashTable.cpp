@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Lab5-2.cpp
+// Name        : HashTable.cpp
 // Author      : Madeline Meyers
 // Date        : June 5, 2022
 // Course      : CS-260-T5589 Data Structures and Algorithms 22EW5
