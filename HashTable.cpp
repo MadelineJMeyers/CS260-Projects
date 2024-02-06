@@ -4,8 +4,8 @@
 // Date        : June 5, 2022
 // Course      : CS-260-T5589 Data Structures and Algorithms 22EW5
 // Version     : 1.0
-// Copyright   : Copyright © 2017 SNHU COCE
-// Description : Hello World in C++, Ansi-style
+// Copyright   : Copyright Â© 2017 SNHU COCE
+// Description : Hash Table sorting algorithm. 
 //============================================================================
 
 #include <algorithm>
