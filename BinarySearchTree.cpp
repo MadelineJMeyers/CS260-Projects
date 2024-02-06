@@ -5,7 +5,7 @@
 // Course      : CS-260-T5589 Data Structures and Algorithms
 // Version     : 1.0
 // Copyright   : Copyright Â© 2017 SNHU COCE
-// Description : Hello World in C++, Ansi-style
+// Description : Binary search tree search algorithm.
 //============================================================================
 
 #include <iostream>
