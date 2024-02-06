@@ -42,12 +42,5 @@ int main()
         }
         cout << min << endl; // prints the minimum distance to zero
     }
-
-
-
-
-    // Write an answer using cout. DON'T FORGET THE "<< endl"
-    // To debug: cerr << "Debug messages..." << endl;
-
     
 }
